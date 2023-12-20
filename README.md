@@ -1,6 +1,6 @@
 # Photo-Capture-App-with-API
 
-<p style="border-bottom: 2px solid orange;">Pull image api from unsplash with Axios in React</p>
+<p><ul>Pull image api from unsplash with Axios in React</u></p>
 
 Bu projede https://unsplash.com/ üzerinden Search photos API üzerinden, images çekilmiştir. <br>
 Axios ile API'ye gönderilen istek ile birlikte input'a girilen text ile veriler sayfada render edilmektedir.
